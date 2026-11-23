@@ -1,2 +1,2 @@
 Assets
-Folder ini digunakan untuk menyimpan gambar dan icon.
+Folder ini digunakan untuk menyimpan gambar, logo, icon, dan aset proyek.
